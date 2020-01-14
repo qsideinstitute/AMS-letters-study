@@ -1,4 +1,4 @@
-name,affiliation,lettergroup,gender,ethnicity,isurm,highered,institution,research,country,role,security,field,simplefield
+name,affiliation,lettergroup,inferredgender,inferredethnicity,inferredisurm,highered,institution,research,country,role,security,field,simplefield
 matthew salomone,bridgewater state university,A Only,man,white,noturm,highered,domesticother,lessri,NA,associate,moresecure,math,mathstat
 mary d shepherd,northwest missouri state university,A Only,woman,white,noturm,highered,domesticother,lessri,NA,professor,moresecure,math,mathstat
 michelle manes,university of hawaii at manoa,A Only,woman,white,noturm,highered,domesticr1,moreri,NA,associate,moresecure,math,mathstat
@@ -159,7 +159,7 @@ sarah bryant,dickinson college,A Only,woman,white,noturm,highered,domesticother,
 rachel skipper,ohio state university,A Only,woman,white,noturm,highered,domesticr1,moreri,NA,assistant,lesssecure,math,mathstat
 chloe urbanski wawrzyniak,rutgers university,A Only,woman,white,noturm,highered,domesticr1,moreri,NA,grad,lesssecure,math,mathstat
 cory colbert,washington and lee university,A Only,man,black,urm,highered,domesticother,lessri,NA,assistant,lesssecure,math,mathstat
-eduardo due‰è_‰è__ez,university of texas at san antonio,A Only,man,latinx,urm,highered,domesticr2,lessri,NA,associate,moresecure,math,mathstat
+eduardo dueäè_äè__ez,university of texas at san antonio,A Only,man,latinx,urm,highered,domesticr2,lessri,NA,associate,moresecure,math,mathstat
 susan goldstine,st marys college of maryland,A Only,woman,white,noturm,highered,domesticother,lessri,NA,professor,moresecure,math,mathstat
 martha shott,sonoma state university,A Only,woman,white,noturm,highered,domesticother,lessri,NA,associate,moresecure,math,mathstat
 maddie schroth glanz,cal poly san luis obispo,A Only,woman,white,noturm,highered,domesticother,lessri,NA,ntt,lesssecure,stat,mathstat
@@ -251,7 +251,7 @@ mindy capaldi,valparaiso university,A Only,woman,white,noturm,highered,domestico
 joshua wiscons,california state university sacramento,A Only,man,white,noturm,highered,domesticother,lessri,NA,assistant,lesssecure,math,mathstat
 doug burkholder,lenoirrhyne university,A Only,man,white,noturm,highered,domesticother,lessri,NA,professor,moresecure,math,mathstat
 parker glynn adey,university of toronto,A Only,man,white,noturm,highered,international,moreri,canada,assistant,lesssecure,math,mathstat
-claudio g‰è_‰è__mez gonz‰è_‰è__les,university of chicago,A Only,man,latinx,urm,highered,domesticr1,moreri,NA,grad,lesssecure,math,mathstat
+claudio gäè_äè__mez gonzäè_äè__les,university of chicago,A Only,man,latinx,urm,highered,domesticr1,moreri,NA,grad,lesssecure,math,mathstat
 robert kelvey,college of wooster,A Only,man,white,noturm,highered,domesticother,lessri,NA,assistant,lesssecure,math,mathstat
 natalie downey,university of colorado,A Only,woman,NA,NA,highered,domesticr1,moreri,NA,grad,lesssecure,math,mathstat
 "joseph e hibdon, jr",northeastern illinois university,A Only,man,white,noturm,highered,domesticother,lessri,NA,professor,moresecure,math,mathstat
@@ -329,7 +329,7 @@ john ross,southwestern university,A Only,man,white,noturm,highered,domesticother
 kelly macarthur,university of utah,A Only,woman,white,noturm,highered,domesticr1,moreri,NA,ntt,lesssecure,math,mathstat
 devlin mallory,university of michigan,A Only,man,white,noturm,highered,domesticr1,moreri,NA,grad,lesssecure,math,mathstat
 marco v martinez,north central college,A Only,man,latinx,urm,highered,domesticother,lessri,NA,associate,moresecure,math,mathstat
-james ‰è_‰è_lvarez,university of texas at arlington,A Only,man,latinx,urm,highered,domesticr1,moreri,NA,professor,moresecure,math,mathstat
+james äè_äè_lvarez,university of texas at arlington,A Only,man,latinx,urm,highered,domesticr1,moreri,NA,professor,moresecure,math,mathstat
 julie theoret,northern vermont university,A Only,woman,white,noturm,highered,domesticother,lessri,NA,professor,moresecure,math,mathstat
 lisa marano,west chester university,A Only,woman,white,noturm,highered,domesticother,lessri,NA,professor,moresecure,math,mathstat
 mary k arthur,washington state university,A Only,woman,white,noturm,highered,domesticr1,moreri,NA,NA,NA,NA,NA
@@ -359,7 +359,7 @@ topaz wiscons,california state university sacramento,A Only,woman,white,noturm,h
 jaco stroebel,university of pretoria,A Only,man,white,noturm,highered,international,moreri,south africa,NA,NA,math,mathstat
 francis su,harvey mudd college,A Only,man,asian,noturm,highered,domesticother,lessri,NA,professor,moresecure,math,mathstat
 chiheon kim,kakao brain,A Only,man,asian,noturm,nothighered,NA,NA,NA,NA,NA,NA,NA
-vanessa rivera qui‰è_‰è__ones,university of illinois,A Only,woman,latinx,urm,highered,domesticr1,moreri,NA,ntt,lesssecure,math,mathstat
+vanessa rivera quiäè_äè__ones,university of illinois,A Only,woman,latinx,urm,highered,domesticr1,moreri,NA,ntt,lesssecure,math,mathstat
 cheryl grood,swarthmore college,A Only,woman,white,noturm,highered,domesticother,lessri,NA,professor,moresecure,math,mathstat
 megan e sawyer,southern new hampshire university,A Only,woman,white,noturm,highered,domesticother,lessri,NA,associate,moresecure,math,mathstat
 jennifer v jones,fairleigh dickinson university,A Only,woman,NA,NA,NA,domesticother,lessri,NA,NA,NA,NA,NA
@@ -406,7 +406,7 @@ allison henrich,seattle university,A Only,woman,white,noturm,highered,domesticot
 ranjan rohatgi,saint marys college of indiana,A Only,man,asian,noturm,highered,domesticother,lessri,NA,assistant,lesssecure,math,mathstat
 tarik aougab,haverford college,A Only,man,middleeast,noturm,highered,domesticother,lessri,NA,assistant,lesssecure,math,mathstat
 julianne vega,university of kentucky,A Only,woman,white,noturm,highered,domesticr1,moreri,NA,grad,lesssecure,math,mathstat
-selenne ba‰è_‰è__uelos,california state university channel islands,A Only,woman,latinx,urm,highered,domesticother,lessri,NA,assistant,lesssecure,math,mathstat
+selenne baäè_äè__uelos,california state university channel islands,A Only,woman,latinx,urm,highered,domesticother,lessri,NA,assistant,lesssecure,math,mathstat
 david neel,seattle university,A Only,man,white,noturm,highered,domesticother,lessri,NA,associate,moresecure,math,mathstat
 calvin jongsma,dordt university,A Only,man,white,noturm,highered,domesticother,lessri,NA,retired,moresecure,math,mathstat
 jonathan dunbar,st norbert college,A Only,man,white,noturm,highered,domesticother,lessri,NA,associate,moresecure,math,mathstat
@@ -1065,7 +1065,7 @@ jake solomon,hebrew university of jerusalem,B Only,man,middleeast,noturm,highere
 ewain gwynne,university of cambridge,B Only,man,white,noturm,highered,international,moreri,NA,ntt,lesssecure,math,mathstat
 bruce kessler,western kentucky university,B Only,man,white,noturm,highered,domesticother,lessri,NA,professor,moresecure,math,mathstat
 andrey rukhin,university of maryland baltimore county,B Only,man,white,noturm,NA,NA,NA,NA,NA,NA,math,mathstat
-filip pramenkovi†_,university of primorska,B Only,man,white,noturm,highered,international,moreri,slovenia,undergrad,lesssecure,math,mathstat
+filip pramenkovi _,university of primorska,B Only,man,white,noturm,highered,international,moreri,slovenia,undergrad,lesssecure,math,mathstat
 darin clark,university of wisconsin oshkosh,B Only,man,NA,NA,highered,domesticother,lessri,NA,NA,NA,NA,NA
 dennis nieman,NA,B Only,man,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
 benjamin weiss,hebrew university of jerusalem,B and C,man,white,noturm,highered,international,moreri,israel,professor,moresecure,math,mathstat
@@ -1226,7 +1226,7 @@ mee seong im,national academy of sciences,B Only,woman,asian,noturm,highered,dom
 chao zhang,university of southern california,B Only,man,asian,noturm,highered,domesticr1,moreri,NA,associate,moresecure,other,other
 sergei yakovenko,weizmann institute of science,B Only,man,white,noturm,highered,international,moreri,israel,professor,moresecure,math,mathstat
 blanca ayuso de dios,universita milano bicocca,B Only,woman,white,noturm,highered,international,moreri,italy,associate,moresecure,math,mathstat
-benedikt p‰è_‰è__tscher,university of vienna,B Only,man,white,noturm,highered,international,moreri,austria,professor,moresecure,math,mathstat
+benedikt päè_äè__tscher,university of vienna,B Only,man,white,noturm,highered,international,moreri,austria,professor,moresecure,math,mathstat
 ulrike schneider,tu wien,B Only,woman,white,noturm,highered,international,moreri,austria,associate,moresecure,math,mathstat
 joseph steinberg,university of toronto,B Only,man,white,noturm,highered,international,moreri,canada,assistant,lesssecure,other,other
 moo mele,university of delhi,B Only,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
