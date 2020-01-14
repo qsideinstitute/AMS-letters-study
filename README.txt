@@ -6,4 +6,4 @@ The full manuscript is available at:
 
 https://osf.io/preprints/socarxiv/fa4zb/
 
-Gender and ethnicity are INFERRED demographic variables. Please see manuscript for a detailed discussion of this issue.
+Gender and ethnicity are INFERRED demographic variables. That is to say, we have used publicly available information to infer the public presentation of these characteristics. Please see manuscript for a detailed discussion of this issue.
